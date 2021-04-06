@@ -72,10 +72,10 @@ img {
   clear: both;
 }
 
+
 /* Responsive Layout */
 
 /* BLOCCO LEZIONI */
-
 
 @media screen and (max-width: 768px) {
 
@@ -166,6 +166,10 @@ img {
   }
 
   #steps .row img {
+    height: 100px;
+  }
+
+  #steps .row .left img {
     height: 100px;
   }
 
